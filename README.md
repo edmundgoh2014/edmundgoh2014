@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working at [Sitecore](https://www.sitecore.com/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/edmundgoh2014](https://github.com/edmundgoh2014)
-
 - 📫 How to reach me **edmundgoh2014@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/ndiqmlinsw](https://flowcv.com/resume/ndiqmlinsw)

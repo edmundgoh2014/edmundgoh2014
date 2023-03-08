@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **edmundgoh2014@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mheHKPKWRSwVz_djTiTfGbL_0LCtqCI7/view?usp=share_link](https://drive.google.com/file/d/1mheHKPKWRSwVz_djTiTfGbL_0LCtqCI7/view?usp=share_link)
+- 📄 Know about my experiences [https://flowcv.com/resume/ndiqmlinsw](https://flowcv.com/resume/ndiqmlinsw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

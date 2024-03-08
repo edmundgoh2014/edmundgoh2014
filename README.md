@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edmund</h1>
-<h3 align="center">A Junior Software QA Engineer that passionate in learning new testing skills and techniques</h3>
+<h3 align="center">A Software QA Engineer that passionate in learning new testing skills and techniques</h3>
 
 - 🔭 I’m currently working at [Sitecore](https://www.sitecore.com/)
 
